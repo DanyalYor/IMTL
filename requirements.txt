@@ -9,3 +9,4 @@ matplotlib
 seaborn
 wandb
 ray
+umap-learn
