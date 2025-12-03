@@ -15,3 +15,4 @@ ray[tune]
 umap-learn
 opencv-python
 nbformat
+ipywidgets
